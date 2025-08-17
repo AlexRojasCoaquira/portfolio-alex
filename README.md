@@ -1,75 +1,76 @@
-# Nuxt Minimal Starter
+# 🚀 Portfolio Personal - Alex Rojas
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## 📋 Descripción
+Portfolio personal desarrollado con **Nuxt.js 3** y **Vue.js 3**, diseñado para mostrar mis proyectos, habilidades y experiencia como desarrollador.
 
-## Setup
+## ✨ Características
+- 🎨 **Diseño Moderno**: Interfaz limpia y responsive
+- 📱 **Mobile First**: Optimizado para todos los dispositivos
+- ⚡ **Performance**: Construido con las últimas tecnologías web
+- 🎯 **SEO Optimizado**: Mejor visibilidad en motores de búsqueda
+- 🌙 **Tema Adaptativo**: Se adapta a las preferencias del usuario
 
-Make sure to install dependencies:
+## 🛠️ Tecnologías Utilizadas
+- **Frontend**: Nuxt.js 3, Vue.js 3, TypeScript
+- **Styling**: Tailwind CSS
+- **Icons**: SVG Sprites personalizados
+- **Build Tool**: Vite
+- **Deployment**: Vercel
 
+## 🚀 Instalación y Uso
+
+### Prerrequisitos
+- Node.js 18+
+- npm o yarn
+
+### Pasos de instalación
 ```bash
-# npm
+# Clonar el repositorio
+git clone https://github.com/tu-usuario/portfolio-alex.git
+
+# Navegar al directorio
+cd portfolio-alex
+
+# Instalar dependencias
 npm install
 
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
+# Ejecutar en modo desarrollo
 npm run dev
 
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
+# Construir para producción
 npm run build
 
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
+# Previsualizar build de producción
 npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## 📁 Estructura del Proyecto
+```
+portfolio-alex/
+├── app/
+│   ├── components/          # Componentes Vue reutilizables
+│   │   ├── landing/        # Secciones de la landing page
+│   │   ├── layout/         # Componentes de layout
+│   │   └── ui/             # Componentes de UI básicos
+│   ├── composables/        # Lógica reutilizable
+│   ├── layouts/            # Layouts de la aplicación
+│   └── pages/              # Páginas de la aplicación
+├── public/                  # Archivos estáticos
+│   ├── images/             # Imágenes del proyecto
+│   ├── icons/              # Iconos SVG
+│   └── pdf/                # Documentos PDF
+└── nuxt.config.ts          # Configuración de Nuxt
+```
+
+## 🎨 Componentes Principales
+
+### Landing Page
+- **HeroSection**: Sección principal con presentación
+- **AboutSection**: Información personal y experiencia
+- **SkillsSection**: Habilidades técnicas
+- **ProjectsSection**: Portafolio de proyectos
+- **ContactSection**: Formulario de contacto
+
+### Layout
+- **Header**: Navegación principal
+- **Footer**: Información de contacto y enlaces
