@@ -34,6 +34,7 @@
       TailwindCSS: "icon-tailwind",
       JavaScript: "icon-js",
       TypeScript: "icon-ts",
+      Supabase: "icon-supabase",
     };
 
     return techMap[props.name] || props.icon;

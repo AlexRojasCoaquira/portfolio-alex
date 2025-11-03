@@ -29,4 +29,12 @@ export const projects: Project[] = [
     tags: ["React", "TailwindCSS"],
     link: "https://puzzles-omega.vercel.app/",
   },
+  {
+    title: "Snar Dashboard",
+    description: "Dashboard para tienda online integrado con Supabase",
+    image:
+      "https://scontent-lim1-1.xx.fbcdn.net/v/t39.30808-6/513010526_1171796581629261_2367701556238916103_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGr6SZcJ3xJ8ndtjddCFV-o_f_9GtCMXFD9__0a0IxcUNA9SNnrnTeIHKyiBHXiL0xxwiYZG7TL8uDkxyAjkqfp&_nc_ohc=O7AalRld_LkQ7kNvwEm6gEN&_nc_oc=AdnTebxo-E9PHvYcfWA-K9k03sOLZFsW3_aKBFrI1fUhB6ODD9ajLxxQj45bRsiNM38&_nc_zt=23&_nc_ht=scontent-lim1-1.xx&_nc_gid=psZ094vR7atAjOIAjIpuPg&oh=00_AfjpzP90lWgudpCGXsrb6Ng_A2uGglAvSnLpfo2l8JnHVw&oe=690EE7D9",
+    tags: ["Vue", "TailwindCSS", "Supabase"],
+    link: "https://puzzles-omega.vercel.app/",
+  },
 ];
