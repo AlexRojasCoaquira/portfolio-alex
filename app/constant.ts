@@ -33,8 +33,8 @@ export const projects: Project[] = [
     title: "Snar Dashboard",
     description: "Dashboard para tienda online integrado con Supabase",
     image:
-      "https://scontent-lim1-1.xx.fbcdn.net/v/t39.30808-6/513010526_1171796581629261_2367701556238916103_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGr6SZcJ3xJ8ndtjddCFV-o_f_9GtCMXFD9__0a0IxcUNA9SNnrnTeIHKyiBHXiL0xxwiYZG7TL8uDkxyAjkqfp&_nc_ohc=O7AalRld_LkQ7kNvwEm6gEN&_nc_oc=AdnTebxo-E9PHvYcfWA-K9k03sOLZFsW3_aKBFrI1fUhB6ODD9ajLxxQj45bRsiNM38&_nc_zt=23&_nc_ht=scontent-lim1-1.xx&_nc_gid=psZ094vR7atAjOIAjIpuPg&oh=00_AfjpzP90lWgudpCGXsrb6Ng_A2uGglAvSnLpfo2l8JnHVw&oe=690EE7D9",
+      "https://scontent-lim1-1.xx.fbcdn.net/v/t39.30808-6/525758199_1199120925563493_8866092722413969015_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFfNlAMXC24KUEvDTALMRPorDzPUD1nXO-sPM9QPWdc76GSRtciO9Tta2rYLBbTOdnPXTq6Za_MgyNXsdtdewKf&_nc_ohc=EnvPOXUdcvUQ7kNvwEJFYI1&_nc_oc=Adn1R9vKZZuCeLd80Qw2vx50dfbEm2sJFJuemye0tl5rufuYYE25iNdE5zQELhtlbWI&_nc_zt=23&_nc_ht=scontent-lim1-1.xx&_nc_gid=fptak8jaBLTsRsk-ycfBJA&oh=00_Afgg9yTQXqtZ1nus_P4l3e7p5cwoc6iDn-uLjVp6mlEi7Q&oe=69211CFF",
     tags: ["Vue", "TailwindCSS", "Supabase"],
-    link: "https://puzzles-omega.vercel.app/",
+    link: "https://snar.vercel.app/",
   },
 ];
