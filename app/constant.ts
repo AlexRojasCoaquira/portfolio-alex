@@ -1,6 +1,13 @@
 import { type Project } from "./types";
 export const projects: Project[] = [
   {
+    title: "Dualingo",
+    description: "Chat interactivo para aprender inglés mediante tópicos. Integrado con OpenAI",
+    image: "/images/dualingo.png",
+    tags: ["React", "TailwindCSS", "TypeScript", "Supabase"],
+    link: "https://duolingo-ebon-three.vercel.app/",
+  },
+  {
     title: "Simpsons",
     description: "Panel interactivo con gráficos, animaciones y filtro de los Simpsons",
     image: "https://cdn.forbes.com.mx/2022/04/Los-Simpson.jpg",

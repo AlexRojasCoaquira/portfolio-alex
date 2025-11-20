@@ -10,7 +10,7 @@
           :key="project.title"
           class="cursor-pointer overflow-hidden rounded-xl ring-1 ring-gray-200/50 transition hover:shadow-lg hover:ring-white/20"
         >
-          <img class="aspect-[16/9]" :src="project.image" :alt="project.title" />
+          <img class="aspect-[16/9] bg-cover" :src="project.image" :alt="project.title" />
           <div class="p-3">
             <div class="item-center flex justify-between">
               <h3 class="text-lg font-medium">
